@@ -3,7 +3,7 @@
 ## Notebook
 * `m2-brief0.ipynb` : Notebook d'exercice brief 0, prise en main
 * `m2-brief1.ipynb` : Notebook d'exercice brief 1, approfondissement
-* `m2-brief2.ipynb` : Notebook exercice final d'analyse et d'exploitation d'un dataset dans le bug de la création d'un modele.
+* `m2-brief2.ipynb` : Notebook exercice final d'analyse et d'exploitation d'un dataset dans le bug de la création d'un modele. Les détails de l'analyse se trouvent dans le notebook lui-même.
 
 ## Dataset
 
